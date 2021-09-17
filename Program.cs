@@ -8,6 +8,7 @@ namespace Day4_SnakeLadder
         {
             //UC1_SinglePlayer.singleplayer();
             UC2_Between1to6.randomplayer();
+            //UC3.check100();
         }
     }
 }
